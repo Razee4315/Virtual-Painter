@@ -69,9 +69,6 @@ Feel free to contribute to this project. Open an issue or submit PRs.
 - **GitHub**: [Razee4315](https://github.com/Razee4315)
 - **LinkedIn**: [Saqlain Razee](https://www.linkedin.com/in/saqlainrazee/)
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 Made with ❤️ by Saqlain Abbas
